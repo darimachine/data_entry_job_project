@@ -1,0 +1,1 @@
+FORMULQR_URL = "https://forms.gle/gNSEL1FM2qUDWpP66"
